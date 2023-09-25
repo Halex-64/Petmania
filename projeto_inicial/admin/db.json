@@ -1,0 +1,29 @@
+{
+  "profile": [
+    {
+      "nome": "eu",
+      "email": "eu@gmai.com",
+      "id": 1
+    }
+  ],
+  "produtos": [
+    {
+      "produto": "teste",
+      "preco": "12",
+      "descricao": "obj teste",
+      "id": 1
+    },
+    {
+      "produto": "Hálex",
+      "preco": "30R$",
+      "descricao": "sssss",
+      "id": 2
+    },
+    {
+      "produto": "Hálex",
+      "preco": "30R$",
+      "descricao": "sssss",
+      "id": 3
+    }
+  ]
+}
